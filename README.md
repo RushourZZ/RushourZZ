@@ -71,14 +71,15 @@
 
 ## Connect
 
-<!-- Want more contact routes? Drop either of these next to the portfolio badge:
+<!-- Want more contact routes? Drop either of these next to the site badge:
 <a href="mailto:max.kipka@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 -->
 
 <p align="center">
-  <a href="https://TODO-deine-domain.de">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://kunden-navigator.de">
+    <img src="https://img.shields.io/badge/kunden--navigator.de-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="kunden-navigator.de — my web design and SEO studio" />
   </a>
 </p>
 
