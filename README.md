@@ -12,7 +12,7 @@
 
 - 🛠️ Freelance web developer from **Germany** — I design and build websites for clients, from landing pages to custom WordPress builds.
 - ⚡ Day-to-day: **TypeScript**, **Angular**, **WordPress** and a lot of CSS. **Python** when something needs automating.
-- ☁️ I ship and host on **Google Cloud**.
+- ☁️ I ship and host on **Google Cloud** & for German customers on Ionos.
 - 🎨 Starts in **Figma**, ends in code — I care about that handoff being lossless.
 - 💬 Got a project in mind? Find me at the bottom of this page.
 
